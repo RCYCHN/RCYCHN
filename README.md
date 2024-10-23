@@ -1,9 +1,13 @@
-<img src="https://github.com/RCYCHN/RCYCHN/blob/main/rcychn_Midnight_Navy_BG.png" alt="RCYCHNLogo" width="800px" />
+<img src="https://github.com/RCYCHN/RCYCHN/blob/main/rcychn_Dark_BGs.svg" alt="RCYCHNLogo" />
 
-- 👋 Hi, I’m @RCYCHN (Ricky Chun)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full-Stack Web Development with JavaScript
-- ⚡ Fun fact: ...
+
+## Hi, I’m Ricky 👋
+### Full-Stack JavaScript Developer
+💙 Huge loves for Golf, Formula 1, Technology
+
+🌱 Currently completing Full-Stack Web Development with JavaScript course
+
+⚡ Fun fact: ...
 
 <!---
 RCYCHN/RCYCHN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
