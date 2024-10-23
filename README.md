@@ -1,4 +1,4 @@
-![RCYCHN Logo](https://github.com/RCYCHN/RCYCHN/blob/main/rcychn_Midnight_Navy_BG.png)
+<img src="https://github.com/RCYCHN/RCYCHN/blob/main/rcychn_Midnight_Navy_BG.png" alt="RCYCHNLogo" width="800px" />
 
 - 👋 Hi, I’m @RCYCHN (Ricky Chun)
 - 👀 I’m interested in ...
